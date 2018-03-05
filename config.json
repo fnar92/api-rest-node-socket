@@ -3,9 +3,9 @@
 		"port"     : 80
 	},
 	"postgres": {
-		"db"       : "dda52dev7iv0d3e",
-		"user"     : "wptjkftymlpzrk",
-		"password" : "2fa52f20a8f2f9b5d37038bb5e39daad635f5068914db666cd012d42ba2185f1",
-		"host"     : "ec2-54-221-207-184.compute-1.amazonaws.com"
+		"db"       : "nodejs",
+		"user"     : "db_admin",
+		"password" : "win2018",
+		"host"     : "132.148.130.96:5432"
 	}
 }
